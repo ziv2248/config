@@ -1,0 +1,3 @@
+redisDB: 3
+redisPoolSize: 10
+workspace: demo_test
